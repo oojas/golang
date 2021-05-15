@@ -23,4 +23,8 @@ func main() {
 	m := false
 	fmt.Println(n)
 	fmt.Println(m)
+	// Declaring constants
+	const Myconst int = 90
+	fmt.Printf("%v , %T\n", Myconst, Myconst)
+	// Shadowing in constant also works
 }
