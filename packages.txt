@@ -1,3 +1,4 @@
 strconv : Used for converting integers into strings
 make : make([]datatype,capacity) is used to make a slice with a data and the length and also the capacity
 make([]datatype, length,capacity)
+use ,ok to check whether something is present or not
